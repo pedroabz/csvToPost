@@ -1,0 +1,13 @@
+{
+  "name": "csvToPostRequest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ./src/app.js"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "csvtojson": "^2.0.10"
+  }
+}
